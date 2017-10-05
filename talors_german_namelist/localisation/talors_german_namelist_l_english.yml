@@ -1,0 +1,15 @@
+﻿l_english:
+
+ ####################################
+ # Germans
+ ####################################
+ name_list_German:0 "German"
+ German:0 "German"
+ German_adj:0 "German"
+ German_plural:0 "Germans"
+ German_insult:0 "Monkey"
+ German_insult_plural:0 "Monkeys"
+ German_compliment:0 "Angel"
+ German_compliment_plural:0 "Angels"
+ German_spawn:0 "baby"
+ German_spawn_plural:0 "babies"

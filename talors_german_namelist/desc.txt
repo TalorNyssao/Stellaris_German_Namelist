@@ -1,0 +1,11 @@
+This Mod adds a German name list with current German names. This includes persons, planets, ships, stations and fleets.
+
+https://github.com/TalorNyssao/Stellaris_German_Namelist
+
+Known bugs:
+
+at the moment none
+
+Versions:
+
+0.1 Initial Upload

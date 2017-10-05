@@ -1,0 +1,224 @@
+﻿### Das Deutsche Volk
+German = {
+	randomized = no
+
+	ship_names = {
+
+		generic = {
+			Silbermöwe Sturmmöwe Eismöwe Raubmöwe Wildschwan Seeschwalbe
+			Jaguar Iltis Wolf Luchs Leopard Löwe Fuchs Marder Weihe Kranich Storch Häher Elster Reiher Dommel Pinguin Tiger Panther Alk Pelikan
+			Seeadler Albatros Kondor Greif Falke Geier Bussard Habicht Sperber Kormoran
+			Hugin Munin
+			Zobel Wiesel Dachs Nerz Gepard Frettchen Ozelot Hermelin Puma Hyäne
+			Pfeil Strahl
+			Seestern Seeigel Seelöwe Seeschlange Seehund Seepferd
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+		
+		science = {
+			Biene Bremse Brummer Hummel Wespe "Gorch Fock" Gneisenau Scharnhorst Hipper "Graf Spee" Scheer Raule Brommy
+		}
+		
+		colonizer = {
+			Krokodil Eidechse Salamander Viper Otter Natter
+		}
+		
+		constructor = {
+			Walchensee Ammersee Tegernsee Westensee Bodensee Wittensee
+			
+		}
+		
+		mining_station = { }
+		research_station = { }
+		wormhole_station = { }
+		terraform_station = { }
+		observation_station = { }
+		outpost_station = {
+			random_names = {
+				"Neumayer Station"
+			}
+			sequential_name = "%O% Genz Station"
+		}
+		
+		transport = {
+			
+		}
+		
+		military_station_small = {}
+				
+		military_station_medium = {}
+				
+		military_station_large = {
+			"Station Alfa" "Station Beta" "Station Charlie" "Station Delta" "Station Foxtrot" "Station Golf" "Station Hotel" "Station India"
+			"Station Juliett" "Station Kilo" "Station Lima" "Station Mike" "Station November" "Station Oscar" "Station Papa" "Station Quebec"
+			"Station Romeo" "Station Sierra" "Station Tango" "Station Uniform" "Station Victor" "Station Whiskey" "Station X-Ray" "Station Yankee" "Station Zulu"
+		}					
+	}
+
+	fleet_names = {
+		random_names = {
+			"Geschwader Basilisk" "Geschwader Chimera" "Geschwader Minotaur" "Geschwader Gorgon" 
+		}
+		sequential_name = "Geschwader %O%"
+	}
+	
+	army_names = {
+		generic = { 
+			sequential_name = "%O% Infanterie"
+		}
+
+		assault_army = {
+			sequential_name = "%O% Fallschirmjägertruppe "
+		}
+		
+		slave_army = {
+			sequential_name = "%O% Versklavte Infantrie"
+		}
+		
+		clone_army = {
+			sequential_name = "%O% Klontruppe"
+		}
+		
+		robotic_army = {
+			sequential_name = "%O% Mechanisierte Infanterie"
+		}
+		
+		android_army = {
+			sequential_name = "%O% Künstliche Infanterie"
+		}
+		
+		psionic_army = { 
+			sequential_name = "%O% Psy Infanterie"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%O% Fremdenlegion"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "%O% Eugenik Vorhut"
+		}
+	}
+
+	### PLANETS
+
+	planet_names = {
+
+		generic = {
+			### https://de.wikipedia.org/wiki/Liste_der_Gro%C3%9F-_und_Mittelst%C3%A4dte_in_Deutschland
+			names = {
+				Berlin Hamburg München Köln Frankfurt Stuttgart Düsseldorf Dortmund Essen Bremen Leipzig Dresden
+				Hannover Nürnberg Duisburg Bochum Wuppertal Bielefeld Bonn Münster Karlsruhe Mannheim Augsburg
+				Wiesbaden Gelsenkirchen Mönchengladbach Braunschweig Chmenitz Aachen Kiel Halle Magdeburg Krefeld
+				Freiburg Lübeck Mainz Erfurt Kassel Hagen Saarbrücken Hamm "Mühlheim an der Ruhr" Potsdam Leverkusen
+				Oldenburg Osnabrück Solingen Heidelberg Herne Neuss Darmstadt Paderborn Regensburg Ingolstadt
+				Würzburg Wolfsburg Fürth
+			}
+		}
+		
+		pc_desert = {
+			names = {
+				
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+				
+			}
+		}
+		
+		pc_arid = {
+			names = {
+				
+			}
+		}
+		
+		pc_continental = {
+			names = {
+				
+			}
+		}
+		
+		pc_gaia = {
+			names = {
+				
+			}
+		}
+		
+		### Schleswig-Holstein
+		pc_ocean = {
+			names = {
+				Kiel Lübeck Flensburg Neumünster Norderstedt Elmshorn Pinneberg Wedel Ahrensburg Itzehoe Geesthacht Randsburg
+				"Henstedt-Ulzburg" Reinbek "Bad Oldesloe" Schleswig Husum Eckernförde Heide Quickborn Kaltenkirchen Rostock
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+				
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+				Plauen Zwickau Oberhausen
+			}
+		}
+		
+	}
+
+	### CHARACTERS
+	
+	
+	character_names = {
+		
+		names1 = {
+			weight = 15
+	
+			### http://www.baby-vornamen.de/Sprache_und_Herkunft/deutsche_Vornamen.php
+			first_names_male = {
+				Fynn Luca Paul Lasse Rory Kimi Nils Alexander Hauke Fiete Oliver Ben Finn Gunnar Jan Kjell Sören Thomas Lukas Elias Arvid Sven
+				Noah Josef Johannes Veit Aaron Mats Levin Karl Helge Kai Peer Uwe Sebastian Martin Jens Keno Richard Dirk Malte Jasper Simon
+				Isger Hannes Max Peter Raik Frank Lennard
+			}
+			first_names_female = {
+				Michaela Carolin Gesine Emma Julia Christina Linda Leonie Ruth Ilka Svenja Hedda Lennja Svea Finja Jördis Dana Nele Ida Xanthippe
+				Mia Eva Lara Maria Andrea Anna Katharina Lana Daniela Anne Stella Hannelore Smilla Simone Eske Ylva Selma Inge Greta Hella Marion
+				Helga Saskia Silvia Heidi Hermine Femke Sophie Hanna Stefanie
+			}
+			
+			### https://de.wikipedia.org/wiki/Liste_der_h%C3%A4ufigsten_Familiennamen_in_Deutschland
+			second_names = {
+				Müller Schmidt Schneider Fischer Weber Meyer Wagner Becker Schulz Hoffmann Schäfer Koch Bauer Richter Klein Wolf Schröder Neumann
+				Schwarz Zimmermann Braun Krüger Hofmann Hartmann Lange Schmitt Werner Schmitz Krause Meier Lehmann Schmid Schulze Maier Köhler
+				Herrmann König Walter Mayer Huber Kaiser Fuchs Peters Lang Scholz Möller Weiß Jung Hahn Schubert Vogel Friedrich Keller Günther
+				Frank Berger Winkler Roth Beck Lorenz Baumann Franke Albrecht Schuster Simon Ludwig Böhm Winter Kraus Martin Schumacher Krämer
+				Vogt Stein Jäger Otto Sommer Groß Seidel Heinrich Brandt Haas Schreiber Graf Schulte Dietrich Ziegler Kuhn Kühn Pohl Engel Horn
+				Busch Bergmann Thomas Voigt Sauer Arnold Wolff Pfeiffer Weibrecht
+			}
+			regnal_first_names_male = {
+				Konrad Ludwig Kurt Georg Willy Helmut Gerhard Sigmar "Frank-Walter" Wolfgang Heiko Guido Horst Oskar Volker Joschka Joachim
+				"Karl-Theodor"
+			}
+			regnal_first_names_female = {
+				Angela Ursula Katrin
+			}
+			regnal_second_names = {
+				Adenauer Erhard Kiesinger Brandt Schmidt Kohl Schröder Merkel Gabriel Steinmeier Schäuble Maas "von der Leyen" Westerwelle Seehofer
+				Kauder Fischer Gauck "zu Guttenberg" "Göring-Echardt"
+			}
+		}
+	}
+}
