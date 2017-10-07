@@ -7,5 +7,5 @@ at the moment none
 
 ## Versions:
 
-0.2 Update to 1.8 and renaming  
+0.2 Update to 1.8 and renamed "Truppe" to "Geschwader" 
 0.1 Initial Upload
